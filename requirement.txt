@@ -1,0 +1,5 @@
+comtypes
+ctypes
+numpy
+pytest
+STAAD.Pro Advanced 2023 - Version 23.00.02.361 (Standalone software for Structural Analysis not the python library)
